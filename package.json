@@ -1,0 +1,26 @@
+{
+  "name": "loops-challenge",
+  "version": "1.0.0",
+  "description": "Kia ora and welcome! 🎉 Today, you’ll be practicing **loops** in JavaScript – a powerful tool to repeat tasks and work through data.",
+  "main": "loops.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NGEN-Room/loops-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NGEN-Room/loops-challenge/issues"
+  },
+  "homepage": "https://github.com/NGEN-Room/loops-challenge#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
